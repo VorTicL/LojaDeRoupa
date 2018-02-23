@@ -1,4 +1,4 @@
-<bm> Loja De Roupa</bm>
+<bm><s> Loja De Roupa</s></bm>
 
 Crie um banco de dados DERBY APPACHE NO NETBEANS com nome Moda_Fashion,  usuario: victor e senha:loja
 Execute o comando:
